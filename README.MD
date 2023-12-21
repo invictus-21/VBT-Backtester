@@ -1,8 +1,6 @@
 # Overview
 This Jupyter Notebook utilizes various Python packages, including numpy, pandas, numba, vectorbt, and optuna. The notebook is structured to perform the following tasks:
 
-<br>
-
 ## 1. Getting Price Data
    - In this section, we fetch OHLCV data for different assets with varying time intervals.
 
