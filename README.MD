@@ -1,6 +1,7 @@
 # Overview
 This Jupyter Notebook utilizes various Python packages, including numpy, pandas, numba, vectorbt, and optuna. The notebook is structured to perform the following tasks:
 
+<br>
 
 ## 1. Getting Price Data
    - In this section, we fetch OHLCV data for different assets with varying time intervals.
@@ -26,5 +27,6 @@ This Jupyter Notebook utilizes various Python packages, including numpy, pandas,
 ## 8. Bayesian Search
    - A Bayesian search is executed for hyperparameter optimization using the optuna package.
 
+<br>
 
 Feel free to run the notebook and explore the various analyses and optimizations provided. For additional details, refer to the code and comments within the notebook.
